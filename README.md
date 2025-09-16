@@ -6,10 +6,15 @@ With the advent of social media, movie reviews have become a popular means of ex
 
 ## Collect Data 
 Used the publicly available Stanford Large Movie Review Dataset (IMDB) from https://ai.stanford.edu/~amaas/data/sentiment/.
-Preprocess Data: Remove stop words, lemmatize, and encode using TF-IDF.
+
+**Preprocess Data**: Remove stop words, lemmatize, and encode using TF-IDF.
+
 **Train Model**: Supervised learning with Multinomial Naive Bayes on labeled positive/negative reviews.
+
 **Evaluate Model**: Assessed accuracy and generalization on a separate test dataset.
+
 **Analyze Reviews**: Binary classification for new reviews (positive/negative).
+
 **Evaluation Scenarios**: Tested on small (e.g., 100 reviews), medium (1,000), large (10,000), and full (50,000) datasets.
 
 ## Dataset Details
