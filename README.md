@@ -1,5 +1,5 @@
-Sentiment Analysis on Movie Reviews
-Background
+# Sentiment Analysis on Movie Reviews
+## Background
 With the advent of social media, movie reviews have become a popular means of expressing opinions about films. This project develops a natural language processing (NLP) system to analyze movie reviews and determine overall sentiment (positive or negative), as outlined in the assignment.
 Task Overview
 
