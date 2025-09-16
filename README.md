@@ -33,8 +33,9 @@ Train Multinomial Naive Bayes on train data.
 Evaluate on test data with accuracy and classification report.
 Analyze new reviews via a dedicated function.
 
-Performance Metrics on the Test Dataset
-The model was evaluated on the full test dataset (25,000 reviews). Results:
+## Performance Metrics on the Test Dataset
+The model was evaluated on the full test dataset (25,000 reviews). 
+### Results:
 
 **Accuracy**: 0.8265
 
