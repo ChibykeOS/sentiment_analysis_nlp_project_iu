@@ -1,0 +1,3 @@
+Python 3.x
+NLTK
+scikit-learn
