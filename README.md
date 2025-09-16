@@ -32,6 +32,8 @@ Performance Metrics on the Test Dataset
 The model was evaluated on the full test dataset (25,000 reviews). Results:
 
 **Accuracy**: 0.8265
+
+
 Classification Report:
 <img width="436" height="133" alt="image" src="https://github.com/user-attachments/assets/9e81423d-3ab0-4ee0-a3af-4c4a7434c5b1" />
 
@@ -51,7 +53,8 @@ NLTK
 scikit-learn
 
 Install via: pip install nltk scikit-learn
-How to Run
+
+## How to Run
 
 Clone the repo: git clone https://github.com/user/sentiment-analysis-movie-reviews
 Run python sentiment_analysis.py (adjust limit for different scenarios).
