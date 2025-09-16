@@ -47,18 +47,23 @@ Classification Report:
 These metrics indicate balanced performance across classes, with good generalization. For smaller datasets:
 
 Small (100 reviews): Accuracy ~0.70-0.80 (higher variance due to limited data).
+
 Medium (1,000 reviews): Accuracy ~0.82-0.85.
+
 Large (10,000 reviews): Accuracy ~0.85-0.87.
 
 Example Usage
 After training, the system can analyze new reviews. For the example "This movie was absolutely fantastic! I loved every minute of it.": Sentiment: Positive
-Dependencies
+
+### Dependencies
 
 Python 3.x
+
 NLTK
+
 scikit-learn
 
-Install via: pip install nltk scikit-learn
+**Install via**: pip install nltk scikit-learn
 
 ## How to Run
 
