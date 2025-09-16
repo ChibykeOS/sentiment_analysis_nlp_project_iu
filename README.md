@@ -56,5 +56,6 @@ Install via: pip install nltk scikit-learn
 
 ## How to Run
 
-Clone the repo: git clone https://github.com/user/sentiment-analysis-movie-reviews
-Run python sentiment_analysis.py (adjust limit for different scenarios).
+Clone the repo: git clone https://github.com/user/sentiment_analysis_nlp_project_iu
+
+Run python sentiment_analysis_nlp_iu.py (adjust limit for different scenarios).
