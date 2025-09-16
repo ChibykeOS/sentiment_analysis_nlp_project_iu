@@ -33,13 +33,8 @@ The model was evaluated on the full test dataset (25,000 reviews). Results:
 
 **Accuracy**: 0.8265
 Classification Report:
+<img width="436" height="133" alt="image" src="https://github.com/user-attachments/assets/9e81423d-3ab0-4ee0-a3af-4c4a7434c5b1" />
 
-Precision,Recall,F1-Score,Support
-Negative,0.82,0.84,0.83,12500
-Positive,0.84,0.81,0.82,12500
-Accuracy,,,0.83,25000
-Macro Avg,0.83,0.83,0.83,25000
-Weighted Avg,0.83,0.83,0.83,25000
 
 These metrics indicate balanced performance across classes, with good generalization. For smaller datasets:
 
